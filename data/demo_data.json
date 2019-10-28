@@ -1,0 +1,15 @@
+{
+    "CAN": {
+      "Headphone": 1,
+      "Laptop": 5
+    },
+    "SGN": {
+      "Headphone": 3,
+      "Laptop": 8
+    },
+    "SIN": {
+      "Headphone": 0,
+      "Laptop": 5
+    }
+}
+  
